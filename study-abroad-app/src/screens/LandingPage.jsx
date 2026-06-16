@@ -1,11 +1,6 @@
 import React from 'react';
-import { 
-  View, 
-  Text, 
-  StyleSheet, 
-  TouchableOpacity, 
-  Image 
-} from 'react-native';
+import { useNavigation } from '@react-navigation/native';
+import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { COLORS, SIZES } from '../constants/theme';
 
@@ -61,8 +56,7 @@ export default function LandingPage({ navigation }) {
         <TouchableOpacity 
           style={styles.button}
           activeOpacity={0.8}
-          // Uncomment below once we build ProgramListScreen
-          // onPress={() => navigation.navigate('ProgramList')} 
+          onPress={() => navigation.navigate('UniversityList')} 
         >
           <Text style={styles.buttonText}>Explore Universities</Text>
         </TouchableOpacity>

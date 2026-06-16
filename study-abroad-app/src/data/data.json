@@ -1,32 +1,122 @@
 [
   {
     "id": 1,
-    "university": "University of Toronto",
+    "university": "Simon Fraser University",
     "country": "Canada",
-    "description": "Top ranked university offering multiple international programs and world-class research facilities."
+    "shortDescription": "A leading Canadian public research institution recognized for innovation and diverse academic offerings.",
+    "fullDescription": "Simon Fraser University (SFU), a leading Canadian public research institution, offers a vibrant academic environment with a strong commitment to innovation and community engagement. Consistently recognized among the world's top universities, SFU is ranked #308 in the QS World University Rankings 2026 and between 301-350th in the Times Higher Education World University Rankings 2026. Students benefit from top-ranked programs in various disciplines, supported by state-of-the-art campus facilities.",
+    "city": "Burnaby",
+    "ranking": "US-N/A QS-308",
+    "email": "reginfo@sfu.ca",
+    "phone": "778-782-3111",
+    "website": "https://www.sfu.ca/"
   },
   {
     "id": 2,
-    "university": "University of Melbourne",
-    "country": "Australia",
-    "description": "Popular destination for international students known for its vibrant campus life and global recognition."
+    "university": "Wilfrid Laurier University",
+    "country": "Canada",
+    "shortDescription": "A distinguished public institution in Ontario known for its top-ranked programs in Business and Economics.",
+    "fullDescription": "Wilfrid Laurier University, a distinguished public institution in Ontario, Canada, is renowned for its vibrant academic community and commitment to an exceptional student experience. With its main campus nestled in Waterloo, Laurier offers a comprehensive array of over 100 undergraduate and graduate programs. The university is recognized for its top-ranked programs, particularly in Business and Economics, and boasts global recognition for its research initiatives.",
+    "city": "Waterloo",
+    "ranking": "US-N/A QS-N/A",
+    "email": "international@wlu.ca",
+    "phone": "+1 548.889.8888",
+    "website": "https://www.wlu.ca/"
   },
   {
     "id": 3,
-    "university": "University of Portsmouth",
-    "country": "United Kingdom",
-    "description": "Excellent modern university offering business, engineering, and innovative hands-on career programs."
+    "university": "University of Calgary",
+    "country": "Canada",
+    "shortDescription": "Globally recognized for its commitment to innovation and top-ranked programs across 14 faculties.",
+    "fullDescription": "The University of Calgary, a public research university located in Calgary, Alberta, Canada, is globally recognized for its commitment to innovation and academic excellence. Consistently ranked among the world's top institutions, UCalgary offers a diverse range of top-ranked programs across its 14 faculties. With a strong focus on impactful research and an entrepreneurial spirit, the university prepares graduates for exceptional career prospects.",
+    "city": "Calgary",
+    "ranking": "US-N/A QS-211",
+    "email": "uci@ucalgary.ca",
+    "phone": "+1 (403) 220-5110",
+    "website": "https://www.ucalgary.ca/"
   },
   {
     "id": 4,
-    "university": "Royal Holloway, University of London",
-    "country": "United Kingdom",
-    "description": "Stunning historic campus with a strong reputation in arts, humanities, and sciences."
+    "university": "Western University",
+    "country": "Canada",
+    "shortDescription": "A public research institution consistently recognized among the top 1% of universities worldwide.",
+    "fullDescription": "Western University, located in London, Ontario, Canada, is a public research institution consistently recognized among the top 1% of universities worldwide. With a QS World University Ranking of 151 for 2026, Western boasts global recognition for its academic excellence and research intensity. The university's strong alumni network and focus on experiential learning contribute significantly to its graduates' employability.",
+    "city": "London",
+    "ranking": "US-N/A QS-151",
+    "email": "welcome@uwo.ca",
+    "phone": "519-661-2111",
+    "website": "https://www.uwo.ca/"
   },
   {
     "id": 5,
-    "university": "New Zealand Management Academies",
+    "university": "Maynooth University",
+    "country": "Ireland",
+    "shortDescription": "A top-ranked public institution in Ireland offering a vibrant academic environment with a rich history.",
+    "fullDescription": "Maynooth University, a top-ranked public institution in Ireland, offers a vibrant and dynamic academic environment with a rich history dating back to 1795. Renowned for its research-led approach, the university provides a diverse range of programs across the humanities, sciences, social sciences, and engineering. The university fosters a diverse community with over 16,000 students from more than 100 countries.",
+    "city": "Maynooth",
+    "ranking": "US-1114 QS-771",
+    "email": "communications@mu.ie",
+    "phone": "+353 1 7086000",
+    "website": "http://www.maynoothuniversity.ie/"
+  },
+  {
+    "id": 6,
+    "university": "Northern Alberta Institute of Technology (NAIT)",
+    "country": "Canada",
+    "shortDescription": "A leading public polytechnic recognized for its hands-on, technology-based learning.",
+    "fullDescription": "Northern Alberta Institute of Technology (NAIT) is a leading public polytechnic and applied sciences institute located in Edmonton, Alberta, Canada. Established in 1962, NAIT is globally recognized for its hands-on, technology-based learning. The institute is celebrated for its top-ranked programs in applied research, ranking 3rd in 2024 among Canada's top research colleges.",
+    "city": "Edmonton",
+    "ranking": "US-N/A QS-1520",
+    "email": "asknait@nait.ca",
+    "phone": "780.471.6248",
+    "website": "https://www.nait.ca/"
+  },
+  {
+    "id": 7,
+    "university": "University of Portsmouth",
+    "country": "United Kingdom",
+    "shortDescription": "A modern, globally recognised public university with a prestigious 'Gold' rating in teaching.",
+    "fullDescription": "The University of Portsmouth is a modern, globally recognised public university located in the vibrant coastal city of Portsmouth, England. As a top-ranked institution, it offers a diverse range of undergraduate and postgraduate programs. The university is committed to delivering high-quality teaching, evidenced by its prestigious 'Gold' rating in the Teaching Excellence Framework (TEF).",
+    "city": "Portsmouth",
+    "ranking": "US-558 QS-635",
+    "email": "info@port.ac.uk",
+    "phone": "+44 (0)23 9284 8484",
+    "website": "https://www.port.ac.uk"
+  },
+  {
+    "id": 8,
+    "university": "Royal Holloway, University of London",
+    "country": "United Kingdom",
+    "shortDescription": "A prestigious public research university renowned for its historic campus and academic excellence.",
+    "fullDescription": "Royal Holloway, University of London, is a prestigious public research university and a constituent college of the federal University of London, renowned for its historic campus and academic excellence. Established in 1886, it has consistently ranked among the UK's leading universities, with 88% of its research rated as world-leading or internationally excellent.",
+    "city": "Egham",
+    "ranking": "US-861 QS-461",
+    "email": "studentservices@royalholloway.ac.uk",
+    "phone": "+44 (0)1784 434 455",
+    "website": "https://www.royalholloway.ac.uk/"
+  },
+  {
+    "id": 9,
+    "university": "New Zealand Management Academies (NZMA)",
     "country": "New Zealand",
-    "description": "Providing top-tier professional diplomas and practical skill-building for global career success."
+    "shortDescription": "A leading private training establishment renowned for its practical, industry-focused vocational education.",
+    "fullDescription": "New Zealand Management Academies (NZMA) is a leading private training establishment in New Zealand, renowned for its practical, industry-focused vocational education. Established in 1985, NZMA holds a prestigious Category 1 rating from the New Zealand Qualifications Authority (NZQA). With a strong emphasis on hands-on learning, NZMA offers a diverse range of nationally recognised certificates and diplomas.",
+    "city": "Auckland",
+    "ranking": "US-N/A QS-N/A",
+    "email": "Quality@nzma.ac.nz",
+    "phone": "0800 116 611",
+    "website": "https://www.nzma.ac.nz/"
+  },
+  {
+    "id": 10,
+    "university": "AcademyEX",
+    "country": "New Zealand",
+    "shortDescription": "A leading private postgraduate institution renowned for its innovative and future-focused education.",
+    "fullDescription": "AcademyEX, located in vibrant Auckland, New Zealand, is a leading private postgraduate institution renowned for its innovative and future-focused education. As a Category 1-rated provider by the NZQA, AcademyEX offers top-ranked programs in areas like Technological Futures and Contemporary Education, designed to equip professionals with in-demand skills.",
+    "city": "Auckland",
+    "ranking": "US-N/A QS-N/A",
+    "email": "hello@academyex.com",
+    "phone": "+64 (09) 964 4444",
+    "website": "https://academyex.com/"
   }
 ]

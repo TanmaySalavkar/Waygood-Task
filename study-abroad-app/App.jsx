@@ -3,6 +3,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import LandingPage from './src/screens/LandingPage';
+import UniversityList from './src/screens/UniversityList';
+import Details from './src/screens/Details';
 
 export default function App() {
   const Stack = createNativeStackNavigator();
@@ -15,11 +17,8 @@ export default function App() {
           screenOptions={{ headerShown: false }} 
         >
           <Stack.Screen name="LandingPage" component={LandingPage} />
-          
-          {/* 
-          <Stack.Screen name="ProgramList" component={ProgramListScreen} />
-          <Stack.Screen name="Details" component={DetailsScreen} /> 
-          */}
+          <Stack.Screen name="UniversityList" component={UniversityList} />
+          <Stack.Screen name="Details" component={Details} /> 
         </Stack.Navigator>
       </NavigationContainer>
     </SafeAreaProvider>
