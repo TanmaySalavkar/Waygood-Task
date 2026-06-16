@@ -12,6 +12,12 @@ A responsive, cleanly architected React Native mobile application built for brow
 * **Centralized Theming:** Design system built into a constants file, ensuring consistent branding and easy updates.
 * **SafeArea Handling:** Fully compatible with modern iOS and Android notches using `react-native-safe-area-context`.
 
+## 📸 Screenshots
+
+| Welcome Screen | Explore Universities | Program Details |
+| :---: | :---: | :---: |
+| <img src="study-abroad-app/assets/screenshot-1.jpg" alt="Welcome Screen" width="250"/> | <img src="./study-abroad-app/assets/screenshot-2.jpg" alt="List Screen" width="250"/> | <img src="study-abroad-app/assets/screenshot-3.jpg" alt="Details Screen" width="250"/>  |
+
 ## 🚀 Setup & Installation Instructions
 
 ### Prerequisites
