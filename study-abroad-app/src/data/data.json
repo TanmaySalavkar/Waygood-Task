@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "university": "University of Toronto",
+    "country": "Canada",
+    "description": "Top ranked university offering multiple international programs and world-class research facilities."
+  },
+  {
+    "id": 2,
+    "university": "University of Melbourne",
+    "country": "Australia",
+    "description": "Popular destination for international students known for its vibrant campus life and global recognition."
+  },
+  {
+    "id": 3,
+    "university": "University of Portsmouth",
+    "country": "United Kingdom",
+    "description": "Excellent modern university offering business, engineering, and innovative hands-on career programs."
+  },
+  {
+    "id": 4,
+    "university": "Royal Holloway, University of London",
+    "country": "United Kingdom",
+    "description": "Stunning historic campus with a strong reputation in arts, humanities, and sciences."
+  },
+  {
+    "id": 5,
+    "university": "New Zealand Management Academies",
+    "country": "New Zealand",
+    "description": "Providing top-tier professional diplomas and practical skill-building for global career success."
+  }
+]
