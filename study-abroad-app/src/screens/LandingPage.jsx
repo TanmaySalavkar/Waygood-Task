@@ -131,14 +131,14 @@ const styles = StyleSheet.create({
     marginLeft: -10,
   },
   imageContainer: {
-    flex: 1, // This expands the container to fill the middle area
+    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     marginVertical: 10,
   },
   heroImage: {
     width: '100%',
-    height: '100%', // Fills the flexible container
+    height: '100%', 
   },
   button: {
     backgroundColor: COLORS.primary,

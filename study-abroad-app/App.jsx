@@ -13,7 +13,6 @@ export default function App() {
       <NavigationContainer>
         <Stack.Navigator 
           initialRouteName="LandingPage"
-          // We hide the default header to maintain that clean, custom look from the website
           screenOptions={{ headerShown: false }} 
         >
           <Stack.Screen name="LandingPage" component={LandingPage} />
